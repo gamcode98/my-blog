@@ -10,19 +10,21 @@ sidebar_position: 1
 
 A continuación, encontrarás enlaces a los tutoriales de algunos lenguajes de programación populares:
 
-- [Dart](#dart-tutorial)
-- [Go](#go-tutorial)
+- [Dart](https://www.google.com)
+- [Go](https://www.google.com)
+
+[text](https://)
 
 ## Dart Tutorial
 
 Si estás interesado en aprender Dart, un lenguaje de programación versátil, aquí tienes un tutorial completo:
 
-[¡Aprende Dart desde cero!](enlace-a-tu-tutorial-de-dart)
+[¡Aprende Dart desde cero!](https://www.google.com)
 
 ## Go Tutorial
 
 Para aquellos que deseen adentrarse en Go, un lenguaje eficiente y poderoso, aquí tienes un tutorial detallado:
 
-[¡Inicia tu viaje con Go!](enlace-a-tu-tutorial-de-go)
+[¡Inicia tu viaje con Go!](https://www.google.com)
 
 ¡Espero que encuentres estos tutoriales útiles y emocionantes!
